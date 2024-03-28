@@ -1,1 +1,1 @@
-proyecto usando API de marvel para la busqueda de personajesjunto con caracteristicas
+proyecto usando API de marvel para la busqueda de personajes junto con caracteristicas
